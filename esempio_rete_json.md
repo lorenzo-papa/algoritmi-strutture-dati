@@ -1,5 +1,5 @@
 # Esempio della struttura dati *Rete*
-## Per una migliore lettura selezionare l'opzione [Raw](https://github.com/LorenzoSerina/progettoAlgoritmi/raw/main/rete_json.md)
+## Per una migliore lettura selezionare l'opzione [Raw](https://github.com/lorenzo-papa/algoritmi-strutture-dati-Papa-Serina/raw/main/esempio_rete_json.md)
 
 
 {
