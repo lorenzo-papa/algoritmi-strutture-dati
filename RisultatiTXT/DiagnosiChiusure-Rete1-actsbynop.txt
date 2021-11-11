@@ -1,3 +1,0 @@
-Diagnosi di spazio comportamentale attraverso spazio delle chiusure relativo all'osservazione [act, sby, nop] e alla rete Rete1
-
-Errore, coda stati vuota, non son presenti stati di accettazione
