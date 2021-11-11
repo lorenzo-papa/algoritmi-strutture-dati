@@ -1,0 +1,31 @@
+Diagnosticatore dello spazio delle chiusure relativo allo spazio comportamentale della rete Rete 3
+
+Chiusure totali:	8
+ID chiusura: 0,	 nodi in chiusura: 0, 2	Diagnosi chiusura: ε
+ID chiusura: 1,	 nodi in chiusura: 1, 4	Diagnosi chiusura: f3(f2f3)*
+ID chiusura: 2,	 nodi in chiusura: 3, 7	Diagnosi chiusura: ε
+ID chiusura: 3,	 nodi in chiusura: 5, 6	Diagnosi chiusura: (f1f4)*
+ID chiusura: 4,	 nodi in chiusura: 6, 5	Diagnosi chiusura: f4(f1f4)*
+ID chiusura: 5,	 nodi in chiusura: 2	Diagnosi chiusura: ε
+ID chiusura: 6,	 nodi in chiusura: 7	Diagnosi chiusura: ε
+ID chiusura: 7,	 nodi in chiusura: 4, 1	Diagnosi chiusura: (f2f3)*
+
+Cammini totali:	18
+Cammino: Chiusura di partenza: 0, Chiusura finale: 1, Nodo iniziale: 0, Nodo finale: 1, Etichetta diagnosi ε, Etichetta osservabilità act
+Cammino: Chiusura di partenza: 1, Chiusura finale: 2, Nodo iniziale: 1, Nodo finale: 3, Etichetta diagnosi (f3f2)*, Etichetta osservabilità opn
+Cammino: Chiusura di partenza: 7, Chiusura finale: 2, Nodo iniziale: 1, Nodo finale: 3, Etichetta diagnosi f2(f3f2)*, Etichetta osservabilità opn
+Cammino: Chiusura di partenza: 0, Chiusura finale: 0, Nodo iniziale: 2, Nodo finale: 0, Etichetta diagnosi f1, Etichetta osservabilità nop
+Cammino: Chiusura di partenza: 5, Chiusura finale: 0, Nodo iniziale: 2, Nodo finale: 0, Etichetta diagnosi ε, Etichetta osservabilità nop
+Cammino: Chiusura di partenza: 0, Chiusura finale: 3, Nodo iniziale: 2, Nodo finale: 5, Etichetta diagnosi f1, Etichetta osservabilità opn
+Cammino: Chiusura di partenza: 5, Chiusura finale: 3, Nodo iniziale: 2, Nodo finale: 5, Etichetta diagnosi ε, Etichetta osservabilità opn
+Cammino: Chiusura di partenza: 2, Chiusura finale: 4, Nodo iniziale: 3, Nodo finale: 6, Etichetta diagnosi ε, Etichetta osservabilità sby
+Cammino: Chiusura di partenza: 1, Chiusura finale: 5, Nodo iniziale: 4, Nodo finale: 2, Etichetta diagnosi f3(f2f3)*, Etichetta osservabilità sby
+Cammino: Chiusura di partenza: 7, Chiusura finale: 5, Nodo iniziale: 4, Nodo finale: 2, Etichetta diagnosi (f2f3)*, Etichetta osservabilità sby
+Cammino: Chiusura di partenza: 3, Chiusura finale: 6, Nodo iniziale: 5, Nodo finale: 7, Etichetta diagnosi (f1f4)*, Etichetta osservabilità act
+Cammino: Chiusura di partenza: 4, Chiusura finale: 6, Nodo iniziale: 5, Nodo finale: 7, Etichetta diagnosi f4(f1f4)*, Etichetta osservabilità act
+Cammino: Chiusura di partenza: 3, Chiusura finale: 0, Nodo iniziale: 6, Nodo finale: 0, Etichetta diagnosi f1(f4f1)*, Etichetta osservabilità cls
+Cammino: Chiusura di partenza: 4, Chiusura finale: 0, Nodo iniziale: 6, Nodo finale: 0, Etichetta diagnosi (f4f1)*, Etichetta osservabilità cls
+Cammino: Chiusura di partenza: 2, Chiusura finale: 2, Nodo iniziale: 7, Nodo finale: 3, Etichetta diagnosi f2, Etichetta osservabilità nop
+Cammino: Chiusura di partenza: 6, Chiusura finale: 2, Nodo iniziale: 7, Nodo finale: 3, Etichetta diagnosi ε, Etichetta osservabilità nop
+Cammino: Chiusura di partenza: 2, Chiusura finale: 7, Nodo iniziale: 7, Nodo finale: 4, Etichetta diagnosi f2, Etichetta osservabilità cls
+Cammino: Chiusura di partenza: 6, Chiusura finale: 7, Nodo iniziale: 7, Nodo finale: 4, Etichetta diagnosi ε, Etichetta osservabilità cls

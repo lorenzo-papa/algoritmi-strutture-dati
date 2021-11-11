@@ -1,0 +1,7 @@
+Diagnosi di spazio comportamentale attraverso spazio delle chiusure relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+
+Risultato originale del metodo:
+(f3(f2f3)*)(ε)
+Risultato elaborato del metodo:
+f3(f2f3)*

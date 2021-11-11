@@ -1,0 +1,97 @@
+Spazio comportamentale relativo all'osservazione [o1] e alla rete Rete 2
+
+Nodi e cammini potati: 
+Numero nodi potati: 1
+Nome: 11:21:31|e1:: indice osservabilità 1
+
+Numero cammini potati: 2
+Nodo iniziale: 11:21:31|e1:e3: indice oss:1	 Nome transizione: t3c	Nodo finale: 11:21:31|e1:: indice oss:1
+Nodo iniziale: 10:21:31|e1:: indice oss:1	 Nome transizione: t1c	Nodo finale: 11:21:31|e1:: indice oss:1
+
+Numero nodi generati: 30
+ID :1	 Nome: 10:20:30|:: indice osservabilità 0 finale False
+ID :2	 Nome: 11:20:30|:: indice osservabilità 0 finale False
+ID :3	 Nome: 10:21:30|e1:e3: indice osservabilità 1 finale False
+ID :4	 Nome: 10:20:31|::e2 indice osservabilità 0 finale False
+ID :5	 Nome: 11:21:30|e1:e3: indice osservabilità 1 finale False
+ID :6	 Nome: 11:20:31|::e2 indice osservabilità 0 finale False
+ID :7	 Nome: 11:21:30|:e3: indice osservabilità 1 finale False
+ID :8	 Nome: 10:21:31|e1:e3:e2 indice osservabilità 1 finale False
+ID :9	 Nome: 11:21:31|e1:e3:e2 indice osservabilità 1 finale False
+ID :10	 Nome: 10:20:31|:: indice osservabilità 0 finale False
+ID :11	 Nome: 11:21:31|:e3:e2 indice osservabilità 1 finale False
+ID :12	 Nome: 10:21:30|e1::e2 indice osservabilità 1 finale False
+ID :13	 Nome: 10:21:31|e1::e2 indice osservabilità 1 finale False
+ID :14	 Nome: 10:21:31|e1:e3: indice osservabilità 1 finale False
+ID :15	 Nome: 11:21:30|e1::e2 indice osservabilità 1 finale False
+ID :16	 Nome: 11:21:31|e1::e2 indice osservabilità 1 finale False
+ID :17	 Nome: 11:20:31|:: indice osservabilità 0 finale False
+ID :18	 Nome: 10:21:31|:e3: indice osservabilità 1 finale False
+ID :19	 Nome: 11:21:30|::e2 indice osservabilità 1 finale False
+ID :20	 Nome: 11:21:31|::e2 indice osservabilità 1 finale False
+ID :21	 Nome: 11:21:31|:e3: indice osservabilità 1 finale False
+ID :22	 Nome: 11:21:31|e1:e3: indice osservabilità 1 finale False
+ID :23	 Nome: 10:21:30|e1:: indice osservabilità 1 finale False
+ID :24	 Nome: 10:21:31|e1:: indice osservabilità 1 finale False
+ID :25	 Nome: 10:21:30|:: indice osservabilità 1 finale True
+ID :26	 Nome: 10:21:31|:: indice osservabilità 1 finale True
+ID :27	 Nome: 11:21:30|:: indice osservabilità 1 finale True
+ID :28	 Nome: 11:21:31|:: indice osservabilità 1 finale True
+ID :29	 Nome: 11:21:30|e1:: indice osservabilità 1 finale False
+ID :30	 Nome: 10:21:31|::e2 indice osservabilità 1 finale False
+Numero cammini generati: 55
+Nodo iniziale: 1	 Nome: t1c	Nodo finale: 2	Oss: ε	Ril: f1
+Nodo iniziale: 1	 Nome: t2a	Nodo finale: 3	Oss: o1	Ril: ε
+Nodo iniziale: 1	 Nome: t3a	Nodo finale: 4	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t2a	Nodo finale: 5	Oss: o1	Ril: ε
+Nodo iniziale: 2	 Nome: t3a	Nodo finale: 6	Oss: ε	Ril: ε
+Nodo iniziale: 3	 Nome: t1a	Nodo finale: 7	Oss: ε	Ril: ε
+Nodo iniziale: 3	 Nome: t1c	Nodo finale: 5	Oss: ε	Ril: f1
+Nodo iniziale: 3	 Nome: t3a	Nodo finale: 8	Oss: ε	Ril: ε
+Nodo iniziale: 4	 Nome: t1c	Nodo finale: 6	Oss: ε	Ril: f1
+Nodo iniziale: 4	 Nome: t2a	Nodo finale: 8	Oss: o1	Ril: ε
+Nodo iniziale: 5	 Nome: t3a	Nodo finale: 9	Oss: ε	Ril: ε
+Nodo iniziale: 6	 Nome: t1b	Nodo finale: 10	Oss: ε	Ril: ε
+Nodo iniziale: 6	 Nome: t2a	Nodo finale: 9	Oss: o1	Ril: ε
+Nodo iniziale: 7	 Nome: t3a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t1a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t1c	Nodo finale: 9	Oss: ε	Ril: f1
+Nodo iniziale: 8	 Nome: t3b	Nodo finale: 12	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3c	Nodo finale: 13	Oss: ε	Ril: f3
+Nodo iniziale: 9	 Nome: t1b	Nodo finale: 14	Oss: ε	Ril: ε
+Nodo iniziale: 9	 Nome: t3b	Nodo finale: 15	Oss: ε	Ril: ε
+Nodo iniziale: 9	 Nome: t3c	Nodo finale: 16	Oss: ε	Ril: f3
+Nodo iniziale: 10	 Nome: t1c	Nodo finale: 17	Oss: ε	Ril: f1
+Nodo iniziale: 10	 Nome: t2a	Nodo finale: 14	Oss: o1	Ril: ε
+Nodo iniziale: 11	 Nome: t1b	Nodo finale: 18	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t3b	Nodo finale: 19	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t3c	Nodo finale: 20	Oss: ε	Ril: f3
+Nodo iniziale: 12	 Nome: t1a	Nodo finale: 19	Oss: ε	Ril: ε
+Nodo iniziale: 12	 Nome: t1c	Nodo finale: 15	Oss: ε	Ril: f1
+Nodo iniziale: 13	 Nome: t1a	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 13	 Nome: t1c	Nodo finale: 16	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t1a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t1c	Nodo finale: 22	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t3b	Nodo finale: 23	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t3c	Nodo finale: 24	Oss: ε	Ril: f3
+Nodo iniziale: 15	 Nome: t1b	Nodo finale: 23	Oss: ε	Ril: ε
+Nodo iniziale: 16	 Nome: t1b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 17	 Nome: t2a	Nodo finale: 22	Oss: o1	Ril: ε
+Nodo iniziale: 18	 Nome: t1c	Nodo finale: 21	Oss: ε	Ril: f1
+Nodo iniziale: 18	 Nome: t3b	Nodo finale: 25	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3c	Nodo finale: 26	Oss: ε	Ril: f3
+Nodo iniziale: 19	 Nome: t1b	Nodo finale: 25	Oss: ε	Ril: ε
+Nodo iniziale: 20	 Nome: t1b	Nodo finale: 26	Oss: ε	Ril: ε
+Nodo iniziale: 21	 Nome: t3b	Nodo finale: 27	Oss: ε	Ril: ε
+Nodo iniziale: 21	 Nome: t3c	Nodo finale: 28	Oss: ε	Ril: f3
+Nodo iniziale: 22	 Nome: t3b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 23	 Nome: t1a	Nodo finale: 27	Oss: ε	Ril: ε
+Nodo iniziale: 23	 Nome: t1c	Nodo finale: 29	Oss: ε	Ril: f1
+Nodo iniziale: 23	 Nome: t3a	Nodo finale: 13	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1a	Nodo finale: 28	Oss: ε	Ril: ε
+Nodo iniziale: 25	 Nome: t1c	Nodo finale: 27	Oss: ε	Ril: f1
+Nodo iniziale: 25	 Nome: t3a	Nodo finale: 30	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1c	Nodo finale: 28	Oss: ε	Ril: f1
+Nodo iniziale: 27	 Nome: t3a	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 29	 Nome: t3a	Nodo finale: 16	Oss: ε	Ril: ε
+Nodo iniziale: 30	 Nome: t1c	Nodo finale: 20	Oss: ε	Ril: f1

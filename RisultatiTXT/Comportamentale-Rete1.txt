@@ -1,0 +1,42 @@
+Spazio comportamentale relativo a Rete1
+
+Nodi e cammini potati: Numero nodi potati: 2
+Nome: 20:30|e2:e3
+Nome: 21:30|e2:
+
+Numero cammini potati: 2
+Nodo iniziale: 21:30|e2:	 Nome: t2b	Nodo finale: 20:30|e2:e3
+Nodo iniziale: 21:31|e2:e3	 Nome: t3b	Nodo finale: 21:30|e2:
+
+Numero nodi trovati: 13
+ID :0	 Nome: 20:30|:
+ID :1	 Nome: 20:31|e2:
+ID :2	 Nome: 21:31|:e3
+ID :3	 Nome: 21:30|:
+ID :4	 Nome: 21:31|:
+ID :5	 Nome: 20:30|:e3
+ID :6	 Nome: 21:31|e2:
+ID :7	 Nome: 20:31|:e3
+ID :8	 Nome: 20:31|e2:e3
+ID :9	 Nome: 20:31|:
+ID :10	 Nome: 20:30|e2:
+ID :11	 Nome: 21:30|:e3
+ID :12	 Nome: 21:31|e2:e3
+
+Numero cammini trovati: 16
+Nodo iniziale: 0	 Nome: t3a	Nodo finale: 1	Oss: o3	Ril: ε
+Nodo iniziale: 1	 Nome: t2a	Nodo finale: 2	Oss: o2	Ril: ε
+Nodo iniziale: 2	 Nome: t3b	Nodo finale: 3	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t3c	Nodo finale: 4	Oss: ε	Ril: f
+Nodo iniziale: 3	 Nome: t2b	Nodo finale: 5	Oss: ε	Ril: r
+Nodo iniziale: 3	 Nome: t3a	Nodo finale: 6	Oss: o3	Ril: ε
+Nodo iniziale: 4	 Nome: t2b	Nodo finale: 7	Oss: ε	Ril: r
+Nodo iniziale: 5	 Nome: t3a	Nodo finale: 8	Oss: o3	Ril: ε
+Nodo iniziale: 6	 Nome: t2b	Nodo finale: 8	Oss: ε	Ril: r
+Nodo iniziale: 7	 Nome: t3b	Nodo finale: 0	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t3c	Nodo finale: 9	Oss: ε	Ril: f
+Nodo iniziale: 8	 Nome: t3b	Nodo finale: 10	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3c	Nodo finale: 1	Oss: ε	Ril: f
+Nodo iniziale: 10	 Nome: t2a	Nodo finale: 11	Oss: o2	Ril: ε
+Nodo iniziale: 11	 Nome: t3a	Nodo finale: 12	Oss: o3	Ril: ε
+Nodo iniziale: 12	 Nome: t3c	Nodo finale: 6	Oss: ε	Ril: f

@@ -1,0 +1,2277 @@
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε
+Spazio comportamentale relativo all'osservazione [act, sby, nop] e alla rete Rete 3
+
+Nodi e cammini potati: 
+Numero nodi potati: 2
+Nome: 0:0|cl indice osservabilità 0
+Nome: 0:0|cl indice osservabilità 3
+
+Numero cammini potati: 2
+Nodo iniziale: 0:0| indice oss:0	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:0
+Nodo iniziale: 0:0| indice oss:3	 Nome transizione: s3	Nodo finale: 0:0|cl indice oss:3
+
+Numero nodi generati: 5
+ID :1	 Nome: 0:0| indice osservabilità 0 finale False
+ID :2	 Nome: 1:0|op indice osservabilità 1 finale False
+ID :3	 Nome: 1:0| indice osservabilità 1 finale False
+ID :4	 Nome: 0:0|cl indice osservabilità 2 finale False
+ID :5	 Nome: 0:0| indice osservabilità 3 finale True
+Numero cammini generati: 5
+Nodo iniziale: 1	 Nome: s1	Nodo finale: 2	Oss: act	Ril: ε
+Nodo iniziale: 2	 Nome: b3	Nodo finale: 3	Oss: ε	Ril: f3
+Nodo iniziale: 3	 Nome: s2	Nodo finale: 4	Oss: sby	Ril: ε
+Nodo iniziale: 3	 Nome: s4	Nodo finale: 2	Oss: ε	Ril: f2
+Nodo iniziale: 4	 Nome: b5	Nodo finale: 5	Oss: nop	Ril: ε

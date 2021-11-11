@@ -1,0 +1,24 @@
+Diagnosticatore dello spazio delle chiusure relativo allo spazio comportamentale della rete Rete1
+
+Chiusure totali:	7
+ID chiusura: 0,	 nodi in chiusura: 0	Diagnosi chiusura: ε
+ID chiusura: 1,	 nodi in chiusura: 1	Diagnosi chiusura: ε
+ID chiusura: 2,	 nodi in chiusura: 2, 3, 4, 5, 7, 0, 9	Diagnosi chiusura: fr|f|frf|ε
+ID chiusura: 3,	 nodi in chiusura: 6, 8, 10, 1	Diagnosi chiusura: ε
+ID chiusura: 4,	 nodi in chiusura: 8, 10, 1	Diagnosi chiusura: ε
+ID chiusura: 5,	 nodi in chiusura: 11	Diagnosi chiusura: ε
+ID chiusura: 6,	 nodi in chiusura: 12, 6, 8, 10, 1	Diagnosi chiusura: ε
+
+Cammini totali:	12
+Cammino: Chiusura di partenza: 0, Chiusura finale: 1, Nodo iniziale: 0, Nodo finale: 1, Etichetta diagnosi ε, Etichetta osservabilità o3
+Cammino: Chiusura di partenza: 2, Chiusura finale: 1, Nodo iniziale: 0, Nodo finale: 1, Etichetta diagnosi fr, Etichetta osservabilità o3
+Cammino: Chiusura di partenza: 1, Chiusura finale: 2, Nodo iniziale: 1, Nodo finale: 2, Etichetta diagnosi ε, Etichetta osservabilità o2
+Cammino: Chiusura di partenza: 3, Chiusura finale: 2, Nodo iniziale: 1, Nodo finale: 2, Etichetta diagnosi rf, Etichetta osservabilità o2
+Cammino: Chiusura di partenza: 4, Chiusura finale: 2, Nodo iniziale: 1, Nodo finale: 2, Etichetta diagnosi f, Etichetta osservabilità o2
+Cammino: Chiusura di partenza: 6, Chiusura finale: 2, Nodo iniziale: 1, Nodo finale: 2, Etichetta diagnosi frf, Etichetta osservabilità o2
+Cammino: Chiusura di partenza: 2, Chiusura finale: 3, Nodo iniziale: 3, Nodo finale: 6, Etichetta diagnosi ε, Etichetta osservabilità o3
+Cammino: Chiusura di partenza: 2, Chiusura finale: 4, Nodo iniziale: 5, Nodo finale: 8, Etichetta diagnosi r, Etichetta osservabilità o3
+Cammino: Chiusura di partenza: 3, Chiusura finale: 5, Nodo iniziale: 10, Nodo finale: 11, Etichetta diagnosi r, Etichetta osservabilità o2
+Cammino: Chiusura di partenza: 4, Chiusura finale: 5, Nodo iniziale: 10, Nodo finale: 11, Etichetta diagnosi ε, Etichetta osservabilità o2
+Cammino: Chiusura di partenza: 6, Chiusura finale: 5, Nodo iniziale: 10, Nodo finale: 11, Etichetta diagnosi fr, Etichetta osservabilità o2
+Cammino: Chiusura di partenza: 5, Chiusura finale: 6, Nodo iniziale: 11, Nodo finale: 12, Etichetta diagnosi ε, Etichetta osservabilità o3

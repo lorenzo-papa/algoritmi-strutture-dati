@@ -1,0 +1,568 @@
+Spazio comportamentale relativo a Rete 2
+
+Nodi e cammini potati: Numero nodi potati: 2
+Nome: 11:21:31|e1::
+Nome: 11:20:31|e1::
+
+Numero cammini potati: 5
+Nodo iniziale: 11:21:31|e1:e3:	 Nome: t3c	Nodo finale: 11:21:31|e1::
+Nodo iniziale: 10:21:31|e1::	 Nome: t1c	Nodo finale: 11:21:31|e1::
+Nodo iniziale: 11:20:31|e1:e3:	 Nome: t3c	Nodo finale: 11:20:31|e1::
+Nodo iniziale: 11:21:31|::	 Nome: t2b	Nodo finale: 11:20:31|e1::
+Nodo iniziale: 10:20:31|e1::	 Nome: t1c	Nodo finale: 11:20:31|e1::
+
+Numero nodi trovati: 41
+ID :0	 Nome: 10:20:30|::
+ID :1	 Nome: 11:20:30|::
+ID :2	 Nome: 10:21:30|e1:e3:
+ID :3	 Nome: 10:20:31|::e2
+ID :4	 Nome: 11:21:30|e1:e3:
+ID :5	 Nome: 11:20:31|::e2
+ID :6	 Nome: 11:21:30|:e3:
+ID :7	 Nome: 10:21:31|e1:e3:e2
+ID :8	 Nome: 11:21:31|e1:e3:e2
+ID :9	 Nome: 10:20:31|::
+ID :10	 Nome: 11:20:30|e1:e3:
+ID :11	 Nome: 11:21:31|:e3:e2
+ID :12	 Nome: 10:21:30|e1::e2
+ID :13	 Nome: 10:21:31|e1::e2
+ID :14	 Nome: 10:21:31|e1:e3:
+ID :15	 Nome: 11:21:30|e1::e2
+ID :16	 Nome: 11:21:31|e1::e2
+ID :17	 Nome: 11:20:31|::
+ID :18	 Nome: 11:20:31|e1:e3:e2
+ID :19	 Nome: 10:21:31|:e3:
+ID :20	 Nome: 11:21:30|::e2
+ID :21	 Nome: 11:21:31|::e2
+ID :22	 Nome: 11:21:31|:e3:
+ID :23	 Nome: 11:21:31|e1:e3:
+ID :24	 Nome: 10:21:30|e1::
+ID :25	 Nome: 10:21:31|e1::
+ID :26	 Nome: 10:20:31|e1:e3:
+ID :27	 Nome: 11:20:30|e1::e2
+ID :28	 Nome: 11:20:31|e1::e2
+ID :29	 Nome: 10:21:30|::
+ID :30	 Nome: 10:21:31|::
+ID :31	 Nome: 11:20:31|e1:e3:
+ID :32	 Nome: 11:21:30|::
+ID :33	 Nome: 11:21:31|::
+ID :34	 Nome: 11:21:30|e1::
+ID :35	 Nome: 11:20:31|:e3:
+ID :36	 Nome: 10:20:30|e1::
+ID :37	 Nome: 10:20:31|e1::
+ID :38	 Nome: 10:21:31|::e2
+ID :39	 Nome: 11:20:30|e1::
+ID :40	 Nome: 10:20:31|e1::e2
+
+Numero cammini trovati: 85
+Nodo iniziale: 0	 Nome: t1c	Nodo finale: 1	Oss: ε	Ril: f1
+Nodo iniziale: 0	 Nome: t2a	Nodo finale: 2	Oss: o1	Ril: ε
+Nodo iniziale: 0	 Nome: t3a	Nodo finale: 3	Oss: ε	Ril: ε
+Nodo iniziale: 1	 Nome: t2a	Nodo finale: 4	Oss: o1	Ril: ε
+Nodo iniziale: 1	 Nome: t3a	Nodo finale: 5	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t1a	Nodo finale: 6	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t1c	Nodo finale: 4	Oss: ε	Ril: f1
+Nodo iniziale: 2	 Nome: t3a	Nodo finale: 7	Oss: ε	Ril: ε
+Nodo iniziale: 3	 Nome: t1c	Nodo finale: 5	Oss: ε	Ril: f1
+Nodo iniziale: 3	 Nome: t2a	Nodo finale: 7	Oss: o1	Ril: ε
+Nodo iniziale: 4	 Nome: t3a	Nodo finale: 8	Oss: ε	Ril: ε
+Nodo iniziale: 5	 Nome: t1b	Nodo finale: 9	Oss: ε	Ril: ε
+Nodo iniziale: 5	 Nome: t2a	Nodo finale: 8	Oss: o1	Ril: ε
+Nodo iniziale: 6	 Nome: t2b	Nodo finale: 10	Oss: o2	Ril: ε
+Nodo iniziale: 6	 Nome: t3a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t1a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t1c	Nodo finale: 8	Oss: ε	Ril: f1
+Nodo iniziale: 7	 Nome: t3b	Nodo finale: 12	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t3c	Nodo finale: 13	Oss: ε	Ril: f3
+Nodo iniziale: 8	 Nome: t1b	Nodo finale: 14	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3b	Nodo finale: 15	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3c	Nodo finale: 16	Oss: ε	Ril: f3
+Nodo iniziale: 9	 Nome: t1c	Nodo finale: 17	Oss: ε	Ril: f1
+Nodo iniziale: 9	 Nome: t2a	Nodo finale: 14	Oss: o1	Ril: ε
+Nodo iniziale: 10	 Nome: t3a	Nodo finale: 18	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t1b	Nodo finale: 19	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t2b	Nodo finale: 18	Oss: o2	Ril: ε
+Nodo iniziale: 11	 Nome: t3b	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t3c	Nodo finale: 21	Oss: ε	Ril: f3
+Nodo iniziale: 12	 Nome: t1a	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 12	 Nome: t1c	Nodo finale: 15	Oss: ε	Ril: f1
+Nodo iniziale: 13	 Nome: t1a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 13	 Nome: t1c	Nodo finale: 16	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t1a	Nodo finale: 22	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t1c	Nodo finale: 23	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t3b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t3c	Nodo finale: 25	Oss: ε	Ril: f3
+Nodo iniziale: 15	 Nome: t1b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 16	 Nome: t1b	Nodo finale: 25	Oss: ε	Ril: ε
+Nodo iniziale: 17	 Nome: t2a	Nodo finale: 23	Oss: o1	Ril: ε
+Nodo iniziale: 18	 Nome: t1b	Nodo finale: 26	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3b	Nodo finale: 27	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3c	Nodo finale: 28	Oss: ε	Ril: f3
+Nodo iniziale: 19	 Nome: t1c	Nodo finale: 22	Oss: ε	Ril: f1
+Nodo iniziale: 19	 Nome: t2b	Nodo finale: 26	Oss: o2	Ril: ε
+Nodo iniziale: 19	 Nome: t3b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 19	 Nome: t3c	Nodo finale: 30	Oss: ε	Ril: f3
+Nodo iniziale: 20	 Nome: t1b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 20	 Nome: t2b	Nodo finale: 27	Oss: o2	Ril: ε
+Nodo iniziale: 21	 Nome: t1b	Nodo finale: 30	Oss: ε	Ril: ε
+Nodo iniziale: 21	 Nome: t2b	Nodo finale: 28	Oss: o2	Ril: ε
+Nodo iniziale: 22	 Nome: t2b	Nodo finale: 31	Oss: o2	Ril: ε
+Nodo iniziale: 22	 Nome: t3b	Nodo finale: 32	Oss: ε	Ril: ε
+Nodo iniziale: 22	 Nome: t3c	Nodo finale: 33	Oss: ε	Ril: f3
+Nodo iniziale: 23	 Nome: t3b	Nodo finale: 34	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1a	Nodo finale: 32	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1c	Nodo finale: 34	Oss: ε	Ril: f1
+Nodo iniziale: 24	 Nome: t3a	Nodo finale: 13	Oss: ε	Ril: ε
+Nodo iniziale: 25	 Nome: t1a	Nodo finale: 33	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1a	Nodo finale: 35	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1c	Nodo finale: 31	Oss: ε	Ril: f1
+Nodo iniziale: 26	 Nome: t3b	Nodo finale: 36	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t3c	Nodo finale: 37	Oss: ε	Ril: f3
+Nodo iniziale: 27	 Nome: t1b	Nodo finale: 36	Oss: ε	Ril: ε
+Nodo iniziale: 28	 Nome: t1b	Nodo finale: 37	Oss: ε	Ril: ε
+Nodo iniziale: 29	 Nome: t1c	Nodo finale: 32	Oss: ε	Ril: f1
+Nodo iniziale: 29	 Nome: t2b	Nodo finale: 36	Oss: o2	Ril: ε
+Nodo iniziale: 29	 Nome: t3a	Nodo finale: 38	Oss: ε	Ril: ε
+Nodo iniziale: 30	 Nome: t1c	Nodo finale: 33	Oss: ε	Ril: f1
+Nodo iniziale: 30	 Nome: t2b	Nodo finale: 37	Oss: o2	Ril: ε
+Nodo iniziale: 31	 Nome: t3b	Nodo finale: 39	Oss: ε	Ril: ε
+Nodo iniziale: 32	 Nome: t2b	Nodo finale: 39	Oss: o2	Ril: ε
+Nodo iniziale: 32	 Nome: t3a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 34	 Nome: t3a	Nodo finale: 16	Oss: ε	Ril: ε
+Nodo iniziale: 35	 Nome: t3b	Nodo finale: 1	Oss: ε	Ril: ε
+Nodo iniziale: 35	 Nome: t3c	Nodo finale: 17	Oss: ε	Ril: f3
+Nodo iniziale: 36	 Nome: t1a	Nodo finale: 1	Oss: ε	Ril: ε
+Nodo iniziale: 36	 Nome: t1c	Nodo finale: 39	Oss: ε	Ril: f1
+Nodo iniziale: 36	 Nome: t3a	Nodo finale: 40	Oss: ε	Ril: ε
+Nodo iniziale: 37	 Nome: t1a	Nodo finale: 17	Oss: ε	Ril: ε
+Nodo iniziale: 38	 Nome: t1c	Nodo finale: 21	Oss: ε	Ril: f1
+Nodo iniziale: 38	 Nome: t2b	Nodo finale: 40	Oss: o2	Ril: ε
+Nodo iniziale: 39	 Nome: t3a	Nodo finale: 28	Oss: ε	Ril: ε
+Nodo iniziale: 40	 Nome: t1a	Nodo finale: 5	Oss: ε	Ril: ε
+Nodo iniziale: 40	 Nome: t1c	Nodo finale: 28	Oss: ε	Ril: f1
+Spazio comportamentale relativo a Rete 2
+
+Nodi e cammini potati: Numero nodi potati: 2
+Nome: 11:21:31|e1::
+Nome: 11:20:31|e1::
+
+Numero cammini potati: 5
+Nodo iniziale: 11:21:31|e1:e3:	 Nome: t3c	Nodo finale: 11:21:31|e1::
+Nodo iniziale: 10:21:31|e1::	 Nome: t1c	Nodo finale: 11:21:31|e1::
+Nodo iniziale: 11:20:31|e1:e3:	 Nome: t3c	Nodo finale: 11:20:31|e1::
+Nodo iniziale: 11:21:31|::	 Nome: t2b	Nodo finale: 11:20:31|e1::
+Nodo iniziale: 10:20:31|e1::	 Nome: t1c	Nodo finale: 11:20:31|e1::
+
+Numero nodi trovati: 41
+ID :0	 Nome: 10:20:30|::
+ID :1	 Nome: 11:20:30|::
+ID :2	 Nome: 10:21:30|e1:e3:
+ID :3	 Nome: 10:20:31|::e2
+ID :4	 Nome: 11:21:30|e1:e3:
+ID :5	 Nome: 11:20:31|::e2
+ID :6	 Nome: 11:21:30|:e3:
+ID :7	 Nome: 10:21:31|e1:e3:e2
+ID :8	 Nome: 11:21:31|e1:e3:e2
+ID :9	 Nome: 10:20:31|::
+ID :10	 Nome: 11:20:30|e1:e3:
+ID :11	 Nome: 11:21:31|:e3:e2
+ID :12	 Nome: 10:21:30|e1::e2
+ID :13	 Nome: 10:21:31|e1::e2
+ID :14	 Nome: 10:21:31|e1:e3:
+ID :15	 Nome: 11:21:30|e1::e2
+ID :16	 Nome: 11:21:31|e1::e2
+ID :17	 Nome: 11:20:31|::
+ID :18	 Nome: 11:20:31|e1:e3:e2
+ID :19	 Nome: 10:21:31|:e3:
+ID :20	 Nome: 11:21:30|::e2
+ID :21	 Nome: 11:21:31|::e2
+ID :22	 Nome: 11:21:31|:e3:
+ID :23	 Nome: 11:21:31|e1:e3:
+ID :24	 Nome: 10:21:30|e1::
+ID :25	 Nome: 10:21:31|e1::
+ID :26	 Nome: 10:20:31|e1:e3:
+ID :27	 Nome: 11:20:30|e1::e2
+ID :28	 Nome: 11:20:31|e1::e2
+ID :29	 Nome: 10:21:30|::
+ID :30	 Nome: 10:21:31|::
+ID :31	 Nome: 11:20:31|e1:e3:
+ID :32	 Nome: 11:21:30|::
+ID :33	 Nome: 11:21:31|::
+ID :34	 Nome: 11:21:30|e1::
+ID :35	 Nome: 11:20:31|:e3:
+ID :36	 Nome: 10:20:30|e1::
+ID :37	 Nome: 10:20:31|e1::
+ID :38	 Nome: 10:21:31|::e2
+ID :39	 Nome: 11:20:30|e1::
+ID :40	 Nome: 10:20:31|e1::e2
+
+Numero cammini trovati: 85
+Nodo iniziale: 0	 Nome: t1c	Nodo finale: 1	Oss: ε	Ril: f1
+Nodo iniziale: 0	 Nome: t2a	Nodo finale: 2	Oss: o1	Ril: ε
+Nodo iniziale: 0	 Nome: t3a	Nodo finale: 3	Oss: ε	Ril: ε
+Nodo iniziale: 1	 Nome: t2a	Nodo finale: 4	Oss: o1	Ril: ε
+Nodo iniziale: 1	 Nome: t3a	Nodo finale: 5	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t1a	Nodo finale: 6	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t1c	Nodo finale: 4	Oss: ε	Ril: f1
+Nodo iniziale: 2	 Nome: t3a	Nodo finale: 7	Oss: ε	Ril: ε
+Nodo iniziale: 3	 Nome: t1c	Nodo finale: 5	Oss: ε	Ril: f1
+Nodo iniziale: 3	 Nome: t2a	Nodo finale: 7	Oss: o1	Ril: ε
+Nodo iniziale: 4	 Nome: t3a	Nodo finale: 8	Oss: ε	Ril: ε
+Nodo iniziale: 5	 Nome: t1b	Nodo finale: 9	Oss: ε	Ril: ε
+Nodo iniziale: 5	 Nome: t2a	Nodo finale: 8	Oss: o1	Ril: ε
+Nodo iniziale: 6	 Nome: t2b	Nodo finale: 10	Oss: o2	Ril: ε
+Nodo iniziale: 6	 Nome: t3a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t1a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t1c	Nodo finale: 8	Oss: ε	Ril: f1
+Nodo iniziale: 7	 Nome: t3b	Nodo finale: 12	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t3c	Nodo finale: 13	Oss: ε	Ril: f3
+Nodo iniziale: 8	 Nome: t1b	Nodo finale: 14	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3b	Nodo finale: 15	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3c	Nodo finale: 16	Oss: ε	Ril: f3
+Nodo iniziale: 9	 Nome: t1c	Nodo finale: 17	Oss: ε	Ril: f1
+Nodo iniziale: 9	 Nome: t2a	Nodo finale: 14	Oss: o1	Ril: ε
+Nodo iniziale: 10	 Nome: t3a	Nodo finale: 18	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t1b	Nodo finale: 19	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t2b	Nodo finale: 18	Oss: o2	Ril: ε
+Nodo iniziale: 11	 Nome: t3b	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t3c	Nodo finale: 21	Oss: ε	Ril: f3
+Nodo iniziale: 12	 Nome: t1a	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 12	 Nome: t1c	Nodo finale: 15	Oss: ε	Ril: f1
+Nodo iniziale: 13	 Nome: t1a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 13	 Nome: t1c	Nodo finale: 16	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t1a	Nodo finale: 22	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t1c	Nodo finale: 23	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t3b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t3c	Nodo finale: 25	Oss: ε	Ril: f3
+Nodo iniziale: 15	 Nome: t1b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 16	 Nome: t1b	Nodo finale: 25	Oss: ε	Ril: ε
+Nodo iniziale: 17	 Nome: t2a	Nodo finale: 23	Oss: o1	Ril: ε
+Nodo iniziale: 18	 Nome: t1b	Nodo finale: 26	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3b	Nodo finale: 27	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3c	Nodo finale: 28	Oss: ε	Ril: f3
+Nodo iniziale: 19	 Nome: t1c	Nodo finale: 22	Oss: ε	Ril: f1
+Nodo iniziale: 19	 Nome: t2b	Nodo finale: 26	Oss: o2	Ril: ε
+Nodo iniziale: 19	 Nome: t3b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 19	 Nome: t3c	Nodo finale: 30	Oss: ε	Ril: f3
+Nodo iniziale: 20	 Nome: t1b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 20	 Nome: t2b	Nodo finale: 27	Oss: o2	Ril: ε
+Nodo iniziale: 21	 Nome: t1b	Nodo finale: 30	Oss: ε	Ril: ε
+Nodo iniziale: 21	 Nome: t2b	Nodo finale: 28	Oss: o2	Ril: ε
+Nodo iniziale: 22	 Nome: t2b	Nodo finale: 31	Oss: o2	Ril: ε
+Nodo iniziale: 22	 Nome: t3b	Nodo finale: 32	Oss: ε	Ril: ε
+Nodo iniziale: 22	 Nome: t3c	Nodo finale: 33	Oss: ε	Ril: f3
+Nodo iniziale: 23	 Nome: t3b	Nodo finale: 34	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1a	Nodo finale: 32	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1c	Nodo finale: 34	Oss: ε	Ril: f1
+Nodo iniziale: 24	 Nome: t3a	Nodo finale: 13	Oss: ε	Ril: ε
+Nodo iniziale: 25	 Nome: t1a	Nodo finale: 33	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1a	Nodo finale: 35	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1c	Nodo finale: 31	Oss: ε	Ril: f1
+Nodo iniziale: 26	 Nome: t3b	Nodo finale: 36	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t3c	Nodo finale: 37	Oss: ε	Ril: f3
+Nodo iniziale: 27	 Nome: t1b	Nodo finale: 36	Oss: ε	Ril: ε
+Nodo iniziale: 28	 Nome: t1b	Nodo finale: 37	Oss: ε	Ril: ε
+Nodo iniziale: 29	 Nome: t1c	Nodo finale: 32	Oss: ε	Ril: f1
+Nodo iniziale: 29	 Nome: t2b	Nodo finale: 36	Oss: o2	Ril: ε
+Nodo iniziale: 29	 Nome: t3a	Nodo finale: 38	Oss: ε	Ril: ε
+Nodo iniziale: 30	 Nome: t1c	Nodo finale: 33	Oss: ε	Ril: f1
+Nodo iniziale: 30	 Nome: t2b	Nodo finale: 37	Oss: o2	Ril: ε
+Nodo iniziale: 31	 Nome: t3b	Nodo finale: 39	Oss: ε	Ril: ε
+Nodo iniziale: 32	 Nome: t2b	Nodo finale: 39	Oss: o2	Ril: ε
+Nodo iniziale: 32	 Nome: t3a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 34	 Nome: t3a	Nodo finale: 16	Oss: ε	Ril: ε
+Nodo iniziale: 35	 Nome: t3b	Nodo finale: 1	Oss: ε	Ril: ε
+Nodo iniziale: 35	 Nome: t3c	Nodo finale: 17	Oss: ε	Ril: f3
+Nodo iniziale: 36	 Nome: t1a	Nodo finale: 1	Oss: ε	Ril: ε
+Nodo iniziale: 36	 Nome: t1c	Nodo finale: 39	Oss: ε	Ril: f1
+Nodo iniziale: 36	 Nome: t3a	Nodo finale: 40	Oss: ε	Ril: ε
+Nodo iniziale: 37	 Nome: t1a	Nodo finale: 17	Oss: ε	Ril: ε
+Nodo iniziale: 38	 Nome: t1c	Nodo finale: 21	Oss: ε	Ril: f1
+Nodo iniziale: 38	 Nome: t2b	Nodo finale: 40	Oss: o2	Ril: ε
+Nodo iniziale: 39	 Nome: t3a	Nodo finale: 28	Oss: ε	Ril: ε
+Nodo iniziale: 40	 Nome: t1a	Nodo finale: 5	Oss: ε	Ril: ε
+Nodo iniziale: 40	 Nome: t1c	Nodo finale: 28	Oss: ε	Ril: f1
+Spazio comportamentale relativo a Rete 2
+
+Nodi e cammini potati: Numero nodi potati: 2
+Nome: 11:21:31|e1::
+Nome: 11:20:31|e1::
+
+Numero cammini potati: 5
+Nodo iniziale: 11:21:31|e1:e3:	 Nome: t3c	Nodo finale: 11:21:31|e1::
+Nodo iniziale: 10:21:31|e1::	 Nome: t1c	Nodo finale: 11:21:31|e1::
+Nodo iniziale: 11:20:31|e1:e3:	 Nome: t3c	Nodo finale: 11:20:31|e1::
+Nodo iniziale: 11:21:31|::	 Nome: t2b	Nodo finale: 11:20:31|e1::
+Nodo iniziale: 10:20:31|e1::	 Nome: t1c	Nodo finale: 11:20:31|e1::
+
+Numero nodi trovati: 41
+ID :0	 Nome: 10:20:30|::
+ID :1	 Nome: 11:20:30|::
+ID :2	 Nome: 10:21:30|e1:e3:
+ID :3	 Nome: 10:20:31|::e2
+ID :4	 Nome: 11:21:30|e1:e3:
+ID :5	 Nome: 11:20:31|::e2
+ID :6	 Nome: 11:21:30|:e3:
+ID :7	 Nome: 10:21:31|e1:e3:e2
+ID :8	 Nome: 11:21:31|e1:e3:e2
+ID :9	 Nome: 10:20:31|::
+ID :10	 Nome: 11:20:30|e1:e3:
+ID :11	 Nome: 11:21:31|:e3:e2
+ID :12	 Nome: 10:21:30|e1::e2
+ID :13	 Nome: 10:21:31|e1::e2
+ID :14	 Nome: 10:21:31|e1:e3:
+ID :15	 Nome: 11:21:30|e1::e2
+ID :16	 Nome: 11:21:31|e1::e2
+ID :17	 Nome: 11:20:31|::
+ID :18	 Nome: 11:20:31|e1:e3:e2
+ID :19	 Nome: 10:21:31|:e3:
+ID :20	 Nome: 11:21:30|::e2
+ID :21	 Nome: 11:21:31|::e2
+ID :22	 Nome: 11:21:31|:e3:
+ID :23	 Nome: 11:21:31|e1:e3:
+ID :24	 Nome: 10:21:30|e1::
+ID :25	 Nome: 10:21:31|e1::
+ID :26	 Nome: 10:20:31|e1:e3:
+ID :27	 Nome: 11:20:30|e1::e2
+ID :28	 Nome: 11:20:31|e1::e2
+ID :29	 Nome: 10:21:30|::
+ID :30	 Nome: 10:21:31|::
+ID :31	 Nome: 11:20:31|e1:e3:
+ID :32	 Nome: 11:21:30|::
+ID :33	 Nome: 11:21:31|::
+ID :34	 Nome: 11:21:30|e1::
+ID :35	 Nome: 11:20:31|:e3:
+ID :36	 Nome: 10:20:30|e1::
+ID :37	 Nome: 10:20:31|e1::
+ID :38	 Nome: 10:21:31|::e2
+ID :39	 Nome: 11:20:30|e1::
+ID :40	 Nome: 10:20:31|e1::e2
+
+Numero cammini trovati: 85
+Nodo iniziale: 0	 Nome: t1c	Nodo finale: 1	Oss: ε	Ril: f1
+Nodo iniziale: 0	 Nome: t2a	Nodo finale: 2	Oss: o1	Ril: ε
+Nodo iniziale: 0	 Nome: t3a	Nodo finale: 3	Oss: ε	Ril: ε
+Nodo iniziale: 1	 Nome: t2a	Nodo finale: 4	Oss: o1	Ril: ε
+Nodo iniziale: 1	 Nome: t3a	Nodo finale: 5	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t1a	Nodo finale: 6	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t1c	Nodo finale: 4	Oss: ε	Ril: f1
+Nodo iniziale: 2	 Nome: t3a	Nodo finale: 7	Oss: ε	Ril: ε
+Nodo iniziale: 3	 Nome: t1c	Nodo finale: 5	Oss: ε	Ril: f1
+Nodo iniziale: 3	 Nome: t2a	Nodo finale: 7	Oss: o1	Ril: ε
+Nodo iniziale: 4	 Nome: t3a	Nodo finale: 8	Oss: ε	Ril: ε
+Nodo iniziale: 5	 Nome: t1b	Nodo finale: 9	Oss: ε	Ril: ε
+Nodo iniziale: 5	 Nome: t2a	Nodo finale: 8	Oss: o1	Ril: ε
+Nodo iniziale: 6	 Nome: t2b	Nodo finale: 10	Oss: o2	Ril: ε
+Nodo iniziale: 6	 Nome: t3a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t1a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t1c	Nodo finale: 8	Oss: ε	Ril: f1
+Nodo iniziale: 7	 Nome: t3b	Nodo finale: 12	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t3c	Nodo finale: 13	Oss: ε	Ril: f3
+Nodo iniziale: 8	 Nome: t1b	Nodo finale: 14	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3b	Nodo finale: 15	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3c	Nodo finale: 16	Oss: ε	Ril: f3
+Nodo iniziale: 9	 Nome: t1c	Nodo finale: 17	Oss: ε	Ril: f1
+Nodo iniziale: 9	 Nome: t2a	Nodo finale: 14	Oss: o1	Ril: ε
+Nodo iniziale: 10	 Nome: t3a	Nodo finale: 18	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t1b	Nodo finale: 19	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t2b	Nodo finale: 18	Oss: o2	Ril: ε
+Nodo iniziale: 11	 Nome: t3b	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t3c	Nodo finale: 21	Oss: ε	Ril: f3
+Nodo iniziale: 12	 Nome: t1a	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 12	 Nome: t1c	Nodo finale: 15	Oss: ε	Ril: f1
+Nodo iniziale: 13	 Nome: t1a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 13	 Nome: t1c	Nodo finale: 16	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t1a	Nodo finale: 22	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t1c	Nodo finale: 23	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t3b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t3c	Nodo finale: 25	Oss: ε	Ril: f3
+Nodo iniziale: 15	 Nome: t1b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 16	 Nome: t1b	Nodo finale: 25	Oss: ε	Ril: ε
+Nodo iniziale: 17	 Nome: t2a	Nodo finale: 23	Oss: o1	Ril: ε
+Nodo iniziale: 18	 Nome: t1b	Nodo finale: 26	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3b	Nodo finale: 27	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3c	Nodo finale: 28	Oss: ε	Ril: f3
+Nodo iniziale: 19	 Nome: t1c	Nodo finale: 22	Oss: ε	Ril: f1
+Nodo iniziale: 19	 Nome: t2b	Nodo finale: 26	Oss: o2	Ril: ε
+Nodo iniziale: 19	 Nome: t3b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 19	 Nome: t3c	Nodo finale: 30	Oss: ε	Ril: f3
+Nodo iniziale: 20	 Nome: t1b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 20	 Nome: t2b	Nodo finale: 27	Oss: o2	Ril: ε
+Nodo iniziale: 21	 Nome: t1b	Nodo finale: 30	Oss: ε	Ril: ε
+Nodo iniziale: 21	 Nome: t2b	Nodo finale: 28	Oss: o2	Ril: ε
+Nodo iniziale: 22	 Nome: t2b	Nodo finale: 31	Oss: o2	Ril: ε
+Nodo iniziale: 22	 Nome: t3b	Nodo finale: 32	Oss: ε	Ril: ε
+Nodo iniziale: 22	 Nome: t3c	Nodo finale: 33	Oss: ε	Ril: f3
+Nodo iniziale: 23	 Nome: t3b	Nodo finale: 34	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1a	Nodo finale: 32	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1c	Nodo finale: 34	Oss: ε	Ril: f1
+Nodo iniziale: 24	 Nome: t3a	Nodo finale: 13	Oss: ε	Ril: ε
+Nodo iniziale: 25	 Nome: t1a	Nodo finale: 33	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1a	Nodo finale: 35	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1c	Nodo finale: 31	Oss: ε	Ril: f1
+Nodo iniziale: 26	 Nome: t3b	Nodo finale: 36	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t3c	Nodo finale: 37	Oss: ε	Ril: f3
+Nodo iniziale: 27	 Nome: t1b	Nodo finale: 36	Oss: ε	Ril: ε
+Nodo iniziale: 28	 Nome: t1b	Nodo finale: 37	Oss: ε	Ril: ε
+Nodo iniziale: 29	 Nome: t1c	Nodo finale: 32	Oss: ε	Ril: f1
+Nodo iniziale: 29	 Nome: t2b	Nodo finale: 36	Oss: o2	Ril: ε
+Nodo iniziale: 29	 Nome: t3a	Nodo finale: 38	Oss: ε	Ril: ε
+Nodo iniziale: 30	 Nome: t1c	Nodo finale: 33	Oss: ε	Ril: f1
+Nodo iniziale: 30	 Nome: t2b	Nodo finale: 37	Oss: o2	Ril: ε
+Nodo iniziale: 31	 Nome: t3b	Nodo finale: 39	Oss: ε	Ril: ε
+Nodo iniziale: 32	 Nome: t2b	Nodo finale: 39	Oss: o2	Ril: ε
+Nodo iniziale: 32	 Nome: t3a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 34	 Nome: t3a	Nodo finale: 16	Oss: ε	Ril: ε
+Nodo iniziale: 35	 Nome: t3b	Nodo finale: 1	Oss: ε	Ril: ε
+Nodo iniziale: 35	 Nome: t3c	Nodo finale: 17	Oss: ε	Ril: f3
+Nodo iniziale: 36	 Nome: t1a	Nodo finale: 1	Oss: ε	Ril: ε
+Nodo iniziale: 36	 Nome: t1c	Nodo finale: 39	Oss: ε	Ril: f1
+Nodo iniziale: 36	 Nome: t3a	Nodo finale: 40	Oss: ε	Ril: ε
+Nodo iniziale: 37	 Nome: t1a	Nodo finale: 17	Oss: ε	Ril: ε
+Nodo iniziale: 38	 Nome: t1c	Nodo finale: 21	Oss: ε	Ril: f1
+Nodo iniziale: 38	 Nome: t2b	Nodo finale: 40	Oss: o2	Ril: ε
+Nodo iniziale: 39	 Nome: t3a	Nodo finale: 28	Oss: ε	Ril: ε
+Nodo iniziale: 40	 Nome: t1a	Nodo finale: 5	Oss: ε	Ril: ε
+Nodo iniziale: 40	 Nome: t1c	Nodo finale: 28	Oss: ε	Ril: f1
+Spazio comportamentale relativo a Rete 2
+
+Nodi e cammini potati: Numero nodi potati: 2
+Nome: 11:21:31|e1::
+Nome: 11:20:31|e1::
+
+Numero cammini potati: 5
+Nodo iniziale: 11:21:31|e1:e3:	 Nome: t3c	Nodo finale: 11:21:31|e1::
+Nodo iniziale: 10:21:31|e1::	 Nome: t1c	Nodo finale: 11:21:31|e1::
+Nodo iniziale: 11:20:31|e1:e3:	 Nome: t3c	Nodo finale: 11:20:31|e1::
+Nodo iniziale: 11:21:31|::	 Nome: t2b	Nodo finale: 11:20:31|e1::
+Nodo iniziale: 10:20:31|e1::	 Nome: t1c	Nodo finale: 11:20:31|e1::
+
+Numero nodi trovati: 41
+ID :0	 Nome: 10:20:30|::
+ID :1	 Nome: 11:20:30|::
+ID :2	 Nome: 10:21:30|e1:e3:
+ID :3	 Nome: 10:20:31|::e2
+ID :4	 Nome: 11:21:30|e1:e3:
+ID :5	 Nome: 11:20:31|::e2
+ID :6	 Nome: 11:21:30|:e3:
+ID :7	 Nome: 10:21:31|e1:e3:e2
+ID :8	 Nome: 11:21:31|e1:e3:e2
+ID :9	 Nome: 10:20:31|::
+ID :10	 Nome: 11:20:30|e1:e3:
+ID :11	 Nome: 11:21:31|:e3:e2
+ID :12	 Nome: 10:21:30|e1::e2
+ID :13	 Nome: 10:21:31|e1::e2
+ID :14	 Nome: 10:21:31|e1:e3:
+ID :15	 Nome: 11:21:30|e1::e2
+ID :16	 Nome: 11:21:31|e1::e2
+ID :17	 Nome: 11:20:31|::
+ID :18	 Nome: 11:20:31|e1:e3:e2
+ID :19	 Nome: 10:21:31|:e3:
+ID :20	 Nome: 11:21:30|::e2
+ID :21	 Nome: 11:21:31|::e2
+ID :22	 Nome: 11:21:31|:e3:
+ID :23	 Nome: 11:21:31|e1:e3:
+ID :24	 Nome: 10:21:30|e1::
+ID :25	 Nome: 10:21:31|e1::
+ID :26	 Nome: 10:20:31|e1:e3:
+ID :27	 Nome: 11:20:30|e1::e2
+ID :28	 Nome: 11:20:31|e1::e2
+ID :29	 Nome: 10:21:30|::
+ID :30	 Nome: 10:21:31|::
+ID :31	 Nome: 11:20:31|e1:e3:
+ID :32	 Nome: 11:21:30|::
+ID :33	 Nome: 11:21:31|::
+ID :34	 Nome: 11:21:30|e1::
+ID :35	 Nome: 11:20:31|:e3:
+ID :36	 Nome: 10:20:30|e1::
+ID :37	 Nome: 10:20:31|e1::
+ID :38	 Nome: 10:21:31|::e2
+ID :39	 Nome: 11:20:30|e1::
+ID :40	 Nome: 10:20:31|e1::e2
+
+Numero cammini trovati: 85
+Nodo iniziale: 0	 Nome: t1c	Nodo finale: 1	Oss: ε	Ril: f1
+Nodo iniziale: 0	 Nome: t2a	Nodo finale: 2	Oss: o1	Ril: ε
+Nodo iniziale: 0	 Nome: t3a	Nodo finale: 3	Oss: ε	Ril: ε
+Nodo iniziale: 1	 Nome: t2a	Nodo finale: 4	Oss: o1	Ril: ε
+Nodo iniziale: 1	 Nome: t3a	Nodo finale: 5	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t1a	Nodo finale: 6	Oss: ε	Ril: ε
+Nodo iniziale: 2	 Nome: t1c	Nodo finale: 4	Oss: ε	Ril: f1
+Nodo iniziale: 2	 Nome: t3a	Nodo finale: 7	Oss: ε	Ril: ε
+Nodo iniziale: 3	 Nome: t1c	Nodo finale: 5	Oss: ε	Ril: f1
+Nodo iniziale: 3	 Nome: t2a	Nodo finale: 7	Oss: o1	Ril: ε
+Nodo iniziale: 4	 Nome: t3a	Nodo finale: 8	Oss: ε	Ril: ε
+Nodo iniziale: 5	 Nome: t1b	Nodo finale: 9	Oss: ε	Ril: ε
+Nodo iniziale: 5	 Nome: t2a	Nodo finale: 8	Oss: o1	Ril: ε
+Nodo iniziale: 6	 Nome: t2b	Nodo finale: 10	Oss: o2	Ril: ε
+Nodo iniziale: 6	 Nome: t3a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t1a	Nodo finale: 11	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t1c	Nodo finale: 8	Oss: ε	Ril: f1
+Nodo iniziale: 7	 Nome: t3b	Nodo finale: 12	Oss: ε	Ril: ε
+Nodo iniziale: 7	 Nome: t3c	Nodo finale: 13	Oss: ε	Ril: f3
+Nodo iniziale: 8	 Nome: t1b	Nodo finale: 14	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3b	Nodo finale: 15	Oss: ε	Ril: ε
+Nodo iniziale: 8	 Nome: t3c	Nodo finale: 16	Oss: ε	Ril: f3
+Nodo iniziale: 9	 Nome: t1c	Nodo finale: 17	Oss: ε	Ril: f1
+Nodo iniziale: 9	 Nome: t2a	Nodo finale: 14	Oss: o1	Ril: ε
+Nodo iniziale: 10	 Nome: t3a	Nodo finale: 18	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t1b	Nodo finale: 19	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t2b	Nodo finale: 18	Oss: o2	Ril: ε
+Nodo iniziale: 11	 Nome: t3b	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 11	 Nome: t3c	Nodo finale: 21	Oss: ε	Ril: f3
+Nodo iniziale: 12	 Nome: t1a	Nodo finale: 20	Oss: ε	Ril: ε
+Nodo iniziale: 12	 Nome: t1c	Nodo finale: 15	Oss: ε	Ril: f1
+Nodo iniziale: 13	 Nome: t1a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 13	 Nome: t1c	Nodo finale: 16	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t1a	Nodo finale: 22	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t1c	Nodo finale: 23	Oss: ε	Ril: f1
+Nodo iniziale: 14	 Nome: t3b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 14	 Nome: t3c	Nodo finale: 25	Oss: ε	Ril: f3
+Nodo iniziale: 15	 Nome: t1b	Nodo finale: 24	Oss: ε	Ril: ε
+Nodo iniziale: 16	 Nome: t1b	Nodo finale: 25	Oss: ε	Ril: ε
+Nodo iniziale: 17	 Nome: t2a	Nodo finale: 23	Oss: o1	Ril: ε
+Nodo iniziale: 18	 Nome: t1b	Nodo finale: 26	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3b	Nodo finale: 27	Oss: ε	Ril: ε
+Nodo iniziale: 18	 Nome: t3c	Nodo finale: 28	Oss: ε	Ril: f3
+Nodo iniziale: 19	 Nome: t1c	Nodo finale: 22	Oss: ε	Ril: f1
+Nodo iniziale: 19	 Nome: t2b	Nodo finale: 26	Oss: o2	Ril: ε
+Nodo iniziale: 19	 Nome: t3b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 19	 Nome: t3c	Nodo finale: 30	Oss: ε	Ril: f3
+Nodo iniziale: 20	 Nome: t1b	Nodo finale: 29	Oss: ε	Ril: ε
+Nodo iniziale: 20	 Nome: t2b	Nodo finale: 27	Oss: o2	Ril: ε
+Nodo iniziale: 21	 Nome: t1b	Nodo finale: 30	Oss: ε	Ril: ε
+Nodo iniziale: 21	 Nome: t2b	Nodo finale: 28	Oss: o2	Ril: ε
+Nodo iniziale: 22	 Nome: t2b	Nodo finale: 31	Oss: o2	Ril: ε
+Nodo iniziale: 22	 Nome: t3b	Nodo finale: 32	Oss: ε	Ril: ε
+Nodo iniziale: 22	 Nome: t3c	Nodo finale: 33	Oss: ε	Ril: f3
+Nodo iniziale: 23	 Nome: t3b	Nodo finale: 34	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1a	Nodo finale: 32	Oss: ε	Ril: ε
+Nodo iniziale: 24	 Nome: t1c	Nodo finale: 34	Oss: ε	Ril: f1
+Nodo iniziale: 24	 Nome: t3a	Nodo finale: 13	Oss: ε	Ril: ε
+Nodo iniziale: 25	 Nome: t1a	Nodo finale: 33	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1a	Nodo finale: 35	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t1c	Nodo finale: 31	Oss: ε	Ril: f1
+Nodo iniziale: 26	 Nome: t3b	Nodo finale: 36	Oss: ε	Ril: ε
+Nodo iniziale: 26	 Nome: t3c	Nodo finale: 37	Oss: ε	Ril: f3
+Nodo iniziale: 27	 Nome: t1b	Nodo finale: 36	Oss: ε	Ril: ε
+Nodo iniziale: 28	 Nome: t1b	Nodo finale: 37	Oss: ε	Ril: ε
+Nodo iniziale: 29	 Nome: t1c	Nodo finale: 32	Oss: ε	Ril: f1
+Nodo iniziale: 29	 Nome: t2b	Nodo finale: 36	Oss: o2	Ril: ε
+Nodo iniziale: 29	 Nome: t3a	Nodo finale: 38	Oss: ε	Ril: ε
+Nodo iniziale: 30	 Nome: t1c	Nodo finale: 33	Oss: ε	Ril: f1
+Nodo iniziale: 30	 Nome: t2b	Nodo finale: 37	Oss: o2	Ril: ε
+Nodo iniziale: 31	 Nome: t3b	Nodo finale: 39	Oss: ε	Ril: ε
+Nodo iniziale: 32	 Nome: t2b	Nodo finale: 39	Oss: o2	Ril: ε
+Nodo iniziale: 32	 Nome: t3a	Nodo finale: 21	Oss: ε	Ril: ε
+Nodo iniziale: 34	 Nome: t3a	Nodo finale: 16	Oss: ε	Ril: ε
+Nodo iniziale: 35	 Nome: t3b	Nodo finale: 1	Oss: ε	Ril: ε
+Nodo iniziale: 35	 Nome: t3c	Nodo finale: 17	Oss: ε	Ril: f3
+Nodo iniziale: 36	 Nome: t1a	Nodo finale: 1	Oss: ε	Ril: ε
+Nodo iniziale: 36	 Nome: t1c	Nodo finale: 39	Oss: ε	Ril: f1
+Nodo iniziale: 36	 Nome: t3a	Nodo finale: 40	Oss: ε	Ril: ε
+Nodo iniziale: 37	 Nome: t1a	Nodo finale: 17	Oss: ε	Ril: ε
+Nodo iniziale: 38	 Nome: t1c	Nodo finale: 21	Oss: ε	Ril: f1
+Nodo iniziale: 38	 Nome: t2b	Nodo finale: 40	Oss: o2	Ril: ε
+Nodo iniziale: 39	 Nome: t3a	Nodo finale: 28	Oss: ε	Ril: ε
+Nodo iniziale: 40	 Nome: t1a	Nodo finale: 5	Oss: ε	Ril: ε
+Nodo iniziale: 40	 Nome: t1c	Nodo finale: 28	Oss: ε	Ril: f1

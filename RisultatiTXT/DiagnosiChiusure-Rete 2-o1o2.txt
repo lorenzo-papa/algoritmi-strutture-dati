@@ -1,0 +1,7 @@
+Diagnosi di spazio comportamentale attraverso spazio delle chiusure relativo all'osservazione [o1, o2] e alla rete Rete 2
+
+
+Risultato originale del metodo:
+(ε)(f1|f3|ε)|(ε)(f1|f3|ε)|(ε)(f1|f3|ε)|(ε)(ε|f1)|(ε)(ε|f1)|(ε)(f1|ε)|(f3|f1)(ε)|(f1)(ε)|(f3|f1)(ε)|(f1)(ε)
+Risultato elaborato del metodo:
+f1|f3|ε
