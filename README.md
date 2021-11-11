@@ -1,5 +1,6 @@
 # Progetto Algoritmi e Struttere Dati
 Repository GitHub per il progetto relativo al corso "Algoritmi e Strutture Dati" anno 2019/2020.
+COntenuto: codice sorgente del progetto, risultati parziali dei compiti (RisultatiJSON), risultati output compiti (RisultatiTXT) e risultati di più esecuzioni (Dati Completi) utizzati per le analisi del capitolo "Esempi" della relazioni.
 
 Link alla repository pubblica della relazione: https://www.overleaf.com/read/ztqdwsjkhnqm
 
@@ -10,3 +11,5 @@ Il programma permette di effetuare questa serie di operazioni fornendo in ingres
 4. Generazione dello spazio delle chiusure silenziose
 5. Generazione del diagnosticatore
 6. Calcolo della diagnosi lineare relativa a una osservazione lineare
+
+
