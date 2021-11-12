@@ -34,7 +34,7 @@ if __name__ == "__main__":
           "3)Calcolo della diagnosi relativa a una osservazione lineare\n"
           "4)Generazione dello spazio delle chiusure silenziose\n"
           "5)Generazione del diagnosticatore\n"
-          "6)Calcolo della diagnosi lineare relativa a una osservazione lineare\n"
+          "6)Calcolo della diagnosi lineare relativa a una osservazione lineare (basata su diagnosticatore)\n"
           "Da dove preferisci cominciare?")
     while True:
         oss=""
