@@ -11,6 +11,6 @@ Il programma permette di effetuare questa serie di operazioni fornendo in ingres
 3. Calcolo della diagnosi relativa a una osservazione lineare
 4. Generazione dello spazio delle chiusure silenziose
 5. Generazione del diagnosticatore
-6. Calcolo della diagnosi lineare relativa a una osservazione lineare
+6. Calcolo della diagnosi lineare relativa a una osservazione lineare (basata su diagnosticatore)
 
 
