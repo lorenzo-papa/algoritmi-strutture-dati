@@ -94,6 +94,9 @@ if __name__ == "__main__":
                         initial_time = ge.raccolta_performance_start()
                         spazio_oss=ol.osservazione_lineare(obj, oss, 1)
                         ge.raccolta_performance_end(initial_time)
+                        if spazio_oss == 0:
+                            print("Errore osservazione non presente nella rete, si prega di rieseguire il programma in maniera corretta")
+                            sys.exit()
                         response = None
                         response=input("Vuoi proseguire? (valori accettati: si/no s/n y/n yes/not)")
                         while(ge.proseguire(response)) is False:
