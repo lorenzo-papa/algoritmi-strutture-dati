@@ -143,6 +143,7 @@ def richiesta_label(oss):
         oss = simpledialog.askstring("Inserimento osservazione lineare",
                                      "Inserisci l'osservazione lineare (ex o1); se più di una usare il separatore (separatori accettati o1,o2 o1-o2 o1+o2 o1#o2 o1|o2):")
     # oss = oss.split(",|-|")
+    oss=oss.strip()
     if " " in oss:
         oss = oss.replace(" ", ",")
     oss = re.split('[-+#|,.]', oss)
