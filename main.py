@@ -114,8 +114,8 @@ if __name__ == "__main__":
                     print("\nHai scelto la funzione: Generazione dello spazio delle chiusure silenziose")
                     print("Puoi inserire in input il file relativo alla Rete o il file relativo allo Spazio Comportamentale (formato .json)")
                     obj = ge.richiesta_file_conv()
-                    while ge.check_rete(obj) is True \
-                            or ge.check_spazio_comp(obj) is True:
+                    while ge.check_rete(obj) is False \
+                            and ge.check_spazio_comp(obj) is False:
                         print("Il file inserito non rappresenta nè una Rete di automi a stati finiti nè uno Spazio Comportamentale,"
                             " si prega di inserire un nuovo input corretto")
                         obj = ge.richiesta_file_conv()
